@@ -1,0 +1,57 @@
+
+body {
+  background-color: #0B132B;
+}
+
+p, label {
+  color: #D6FFF9;
+}
+
+h1,h2,h3 {
+  color: #D6FFF9;
+}
+
+.jumbotron.centered {
+  background-color: #0B132B;
+  color: #D6FFF9;
+}
+
+.jumbotron.text-center {
+  background-color: #0B132B;
+  color: #D6FFF9;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.display-3 {
+
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+/* CARDS */
+
+.card {
+  background-color: #1C2541
+}
+
+/* BUTTONS */
+.light-button {
+  background-color: #A3FFF1;
+}
+
+.light-button:hover {
+  background-color: #5BC0BE;
+}
+
+.dark-button {
+  background-color: #1C2541;
+}
